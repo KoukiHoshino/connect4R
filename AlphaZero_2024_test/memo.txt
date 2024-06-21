@@ -1,0 +1,9 @@
+関数    
+    引数　
+         位置引数
+            
+         / 
+            https://office54.net/python/basic/python-argument#google_vignette
+            /より以前の引数は位置引数である必要がある
+         *  
+            *より後の引数はキーワード引数である必要がある
